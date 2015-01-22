@@ -1,7 +1,7 @@
 ui_frameworks_testing
 =====================
 
-Comparative benchmarking of jquery based ui with css3 animations (famous)
+Comparative benchmarking of jquery based ui with css3 animations 
 and use of GPU (famous)
 
 basic jquery us
