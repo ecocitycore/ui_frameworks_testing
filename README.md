@@ -16,3 +16,11 @@ selenium and jasmine for testing,
 
 evaluation of monitoring systems
 +remotely via monastic, nagios, new relic  
+
+
+Benchmarkable UI Framework Commonalities 
+-------------------------------------
+
+*Constructors* 
+
+http://vuejs.org/guide/components.html
