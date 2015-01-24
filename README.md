@@ -1,7 +1,13 @@
 ui_frameworks_testing
 =====================
 
-Comparative benchmarking of famous, d3, ember, ionic, angular, vue, jquery mobile ui, zepto, sencha ui, kendo ui, backbone marionette, sails, and meteor/
+Comparative permformance benchmarking of UI tools generated through yeoman.
+
+Some usability considerations, metrics to support conculsions, hunches
+
+
+
+famous, d3, ember, ionic, angular, vue, jquery mobile ui, zepto, sencha ui, kendo ui, backbone marionette, sails, and meteor/
 
 
 Highlighting gpu based ui responsiveness with css3 animations and use of GPU (famous)
