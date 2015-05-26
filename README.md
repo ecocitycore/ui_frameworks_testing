@@ -19,12 +19,26 @@ Available Versions
     useraccounts:ratchet styled for Ratchet
     useraccounts:semantic-ui styled for Semantic UI
     useraccounts:unstyled with plain html and no CSS rules
-    plus others coming soon...
 
+systems I have wanted to test below, not listed above as part of the meteor useraccounts package set
 
+famous / famono
 
+d3 / rafael / paper, 
 
-famous, d3, ember, ionic, angular, vue, jquery mobile ui, zepto, sencha ui, kendo ui, backbone marionette, sails, and meteor/
+ember - via rails native backend management ember-rails, 
+
+angular material ui
+
+vue
+
+jquery mobile ui - for benchnmarking how far some new frameworks have come in terms of rapid response usability, and bloat minimization.
+
+zepto
+sencha ui
+kendo ui
+backbone marionette
+sails stack
 
 
 Highlighting gpu based ui responsiveness with css3 animations and use of GPU (famous)
