@@ -1,4 +1,4 @@
-ui_frameworks_testing
+modern ui frameworks tested and compared from within the meteor js context
 =====================
 
 Comparative performance benchmarking of UI tools generated through yeoman.
