@@ -1,9 +1,26 @@
 ui_frameworks_testing
 =====================
 
-Comparative permformance benchmarking of UI tools generated through yeoman.
+Comparative performance benchmarking of UI tools generated through yeoman.
 
-Some usability considerations, metrics to support conculsions, hunches
+working to provide usability considerations, metrics to support conclusions, hunches
+ a / b testing
+ hueristic graphing with phantomflow visuals for planning user flows
+
+Quick Start
+
+Available Versions
+
+    useraccounts:bootstrap styled for Twitter Bootstrap
+    useraccounts:foundation styled for Zurb Foundation
+    useraccounts:ionic styled for Ionic
+    useraccounts:materialize styled for Materialize
+    useraccounts:polymer styled for Polymer (WIP)
+    useraccounts:ratchet styled for Ratchet
+    useraccounts:semantic-ui styled for Semantic UI
+    useraccounts:unstyled with plain html and no CSS rules
+    plus others coming soon...
+
 
 
 
